@@ -3,52 +3,20 @@
   "WorkspaceRootPath": "C:\\0.Projetos\\Target\\Target\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{79BD8EF7-7AD3-4B82-B4E4-6C608C3825D8}|Target\\Target.csproj|c:\\0.projetos\\target\\target\\target\\views\\usercontrolexercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79BD8EF7-7AD3-4B82-B4E4-6C608C3825D8}|Target\\Target.csproj|solutionrelative:target\\views\\usercontrolexercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{79BD8EF7-7AD3-4B82-B4E4-6C608C3825D8}|Target\\Target.csproj|c:\\0.projetos\\target\\target\\target\\views\\usercontrolexercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{79BD8EF7-7AD3-4B82-B4E4-6C608C3825D8}|Target\\Target.csproj|solutionrelative:target\\views\\usercontrolexercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79BD8EF7-7AD3-4B82-B4E4-6C608C3825D8}|Target\\Target.csproj|c:\\0.projetos\\target\\target\\target\\views\\usercontrolexercicio4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{79BD8EF7-7AD3-4B82-B4E4-6C608C3825D8}|Target\\Target.csproj|solutionrelative:target\\views\\usercontrolexercicio4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79BD8EF7-7AD3-4B82-B4E4-6C608C3825D8}|Target\\Target.csproj|c:\\0.projetos\\target\\target\\target\\util\\leiturajson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79BD8EF7-7AD3-4B82-B4E4-6C608C3825D8}|Target\\Target.csproj|solutionrelative:target\\util\\leiturajson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79BD8EF7-7AD3-4B82-B4E4-6C608C3825D8}|Target\\Target.csproj|c:\\0.projetos\\target\\target\\target\\util\\faturamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79BD8EF7-7AD3-4B82-B4E4-6C608C3825D8}|Target\\Target.csproj|solutionrelative:target\\util\\faturamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{79BD8EF7-7AD3-4B82-B4E4-6C608C3825D8}|Target\\Target.csproj|c:\\0.projetos\\target\\target\\target\\models\\exercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79BD8EF7-7AD3-4B82-B4E4-6C608C3825D8}|Target\\Target.csproj|solutionrelative:target\\models\\exercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79BD8EF7-7AD3-4B82-B4E4-6C608C3825D8}|Target\\Target.csproj|c:\\0.projetos\\target\\target\\target\\models\\exercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79BD8EF7-7AD3-4B82-B4E4-6C608C3825D8}|Target\\Target.csproj|solutionrelative:target\\models\\exercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{79BD8EF7-7AD3-4B82-B4E4-6C608C3825D8}|Target\\Target.csproj|c:\\0.projetos\\target\\target\\target\\util\\faturamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79BD8EF7-7AD3-4B82-B4E4-6C608C3825D8}|Target\\Target.csproj|solutionrelative:target\\util\\faturamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79BD8EF7-7AD3-4B82-B4E4-6C608C3825D8}|Target\\Target.csproj|c:\\0.projetos\\target\\target\\target\\models\\exercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79BD8EF7-7AD3-4B82-B4E4-6C608C3825D8}|Target\\Target.csproj|solutionrelative:target\\models\\exercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79BD8EF7-7AD3-4B82-B4E4-6C608C3825D8}|Target\\Target.csproj|c:\\0.projetos\\target\\target\\target\\views\\usercontrolexercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79BD8EF7-7AD3-4B82-B4E4-6C608C3825D8}|Target\\Target.csproj|solutionrelative:target\\views\\usercontrolexercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79BD8EF7-7AD3-4B82-B4E4-6C608C3825D8}|Target\\Target.csproj|c:\\0.projetos\\target\\target\\target\\views\\usercontrolexercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{79BD8EF7-7AD3-4B82-B4E4-6C608C3825D8}|Target\\Target.csproj|solutionrelative:target\\views\\usercontrolexercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79BD8EF7-7AD3-4B82-B4E4-6C608C3825D8}|Target\\Target.csproj|c:\\0.projetos\\target\\target\\target\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79BD8EF7-7AD3-4B82-B4E4-6C608C3825D8}|Target\\Target.csproj|solutionrelative:target\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79BD8EF7-7AD3-4B82-B4E4-6C608C3825D8}|Target\\Target.csproj|c:\\0.projetos\\target\\target\\target\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{79BD8EF7-7AD3-4B82-B4E4-6C608C3825D8}|Target\\Target.csproj|solutionrelative:target\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{79BD8EF7-7AD3-4B82-B4E4-6C608C3825D8}|Target\\Target.csproj|c:\\0.projetos\\target\\target\\target\\views\\usercontrolexercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79BD8EF7-7AD3-4B82-B4E4-6C608C3825D8}|Target\\Target.csproj|solutionrelative:target\\views\\usercontrolexercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,61 +26,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Exercicio3.cs",
+              "DocumentMoniker": "C:\\0.Projetos\\Target\\Target\\Target\\Models\\Exercicio3.cs",
+              "RelativeDocumentMoniker": "Target\\Models\\Exercicio3.cs",
+              "ToolTip": "C:\\0.Projetos\\Target\\Target\\Target\\Models\\Exercicio3.cs",
+              "RelativeToolTip": "Target\\Models\\Exercicio3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T16:46:06.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "UserControlExercicio3.cs",
               "DocumentMoniker": "C:\\0.Projetos\\Target\\Target\\Target\\Views\\UserControlExercicio3.cs",
               "RelativeDocumentMoniker": "Target\\Views\\UserControlExercicio3.cs",
               "ToolTip": "C:\\0.Projetos\\Target\\Target\\Target\\Views\\UserControlExercicio3.cs",
               "RelativeToolTip": "Target\\Views\\UserControlExercicio3.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAADoAAAAAAAAAAAAkwEQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T15:50:23.967Z",
+              "WhenOpened": "2025-05-12T16:45:34.456Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "UserControlExercicio3.cs [Projeto]",
               "DocumentMoniker": "C:\\0.Projetos\\Target\\Target\\Target\\Views\\UserControlExercicio3.cs",
               "RelativeDocumentMoniker": "Target\\Views\\UserControlExercicio3.cs",
               "ToolTip": "C:\\0.Projetos\\Target\\Target\\Target\\Views\\UserControlExercicio3.cs [Projeto]",
               "RelativeToolTip": "Target\\Views\\UserControlExercicio3.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T15:50:22.342Z",
+              "WhenOpened": "2025-05-12T16:45:29.081Z",
               "EditorCaption": " [Projeto]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "UserControlExercicio4.cs [Projeto]",
-              "DocumentMoniker": "C:\\0.Projetos\\Target\\Target\\Target\\Views\\UserControlExercicio4.cs",
-              "RelativeDocumentMoniker": "Target\\Views\\UserControlExercicio4.cs",
-              "ToolTip": "C:\\0.Projetos\\Target\\Target\\Target\\Views\\UserControlExercicio4.cs [Projeto]",
-              "RelativeToolTip": "Target\\Views\\UserControlExercicio4.cs [Projeto]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T15:50:20.248Z",
-              "EditorCaption": " [Projeto]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LeituraJson.cs",
-              "DocumentMoniker": "C:\\0.Projetos\\Target\\Target\\Target\\Util\\LeituraJson.cs",
-              "RelativeDocumentMoniker": "Target\\Util\\LeituraJson.cs",
-              "ToolTip": "C:\\0.Projetos\\Target\\Target\\Target\\Util\\LeituraJson.cs",
-              "RelativeToolTip": "Target\\Util\\LeituraJson.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T15:49:43.969Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Faturamento.cs",
               "DocumentMoniker": "C:\\0.Projetos\\Target\\Target\\Target\\Util\\Faturamento.cs",
               "RelativeDocumentMoniker": "Target\\Util\\Faturamento.cs",
@@ -120,97 +76,8 @@
               "RelativeToolTip": "Target\\Util\\Faturamento.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T15:49:39.392Z",
+              "WhenOpened": "2025-05-12T16:31:57.727Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Exercicio3.cs",
-              "DocumentMoniker": "C:\\0.Projetos\\Target\\Target\\Target\\Models\\Exercicio3.cs",
-              "RelativeDocumentMoniker": "Target\\Models\\Exercicio3.cs",
-              "ToolTip": "C:\\0.Projetos\\Target\\Target\\Target\\Models\\Exercicio3.cs",
-              "RelativeToolTip": "Target\\Models\\Exercicio3.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T15:48:39.467Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Exercicio2.cs",
-              "DocumentMoniker": "C:\\0.Projetos\\Target\\Target\\Target\\Models\\Exercicio2.cs",
-              "RelativeDocumentMoniker": "Target\\Models\\Exercicio2.cs",
-              "ToolTip": "C:\\0.Projetos\\Target\\Target\\Target\\Models\\Exercicio2.cs",
-              "RelativeToolTip": "Target\\Models\\Exercicio2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T15:46:50.955Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Exercicio1.cs",
-              "DocumentMoniker": "C:\\0.Projetos\\Target\\Target\\Target\\Models\\Exercicio1.cs",
-              "RelativeDocumentMoniker": "Target\\Models\\Exercicio1.cs",
-              "ToolTip": "C:\\0.Projetos\\Target\\Target\\Target\\Models\\Exercicio1.cs",
-              "RelativeToolTip": "Target\\Models\\Exercicio1.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T15:46:35.034Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UserControlExercicio1.cs",
-              "DocumentMoniker": "C:\\0.Projetos\\Target\\Target\\Target\\Views\\UserControlExercicio1.cs",
-              "RelativeDocumentMoniker": "Target\\Views\\UserControlExercicio1.cs",
-              "ToolTip": "C:\\0.Projetos\\Target\\Target\\Target\\Views\\UserControlExercicio1.cs",
-              "RelativeToolTip": "Target\\Views\\UserControlExercicio1.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAkwCIAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T15:46:12.247Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "UserControlExercicio1.cs [Projeto]",
-              "DocumentMoniker": "C:\\0.Projetos\\Target\\Target\\Target\\Views\\UserControlExercicio1.cs",
-              "RelativeDocumentMoniker": "Target\\Views\\UserControlExercicio1.cs",
-              "ToolTip": "C:\\0.Projetos\\Target\\Target\\Target\\Views\\UserControlExercicio1.cs [Projeto]",
-              "RelativeToolTip": "Target\\Views\\UserControlExercicio1.cs [Projeto]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T15:46:09.81Z",
-              "EditorCaption": " [Projeto]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\0.Projetos\\Target\\Target\\Target\\Form1.cs",
-              "RelativeDocumentMoniker": "Target\\Form1.cs",
-              "ToolTip": "C:\\0.Projetos\\Target\\Target\\Target\\Form1.cs",
-              "RelativeToolTip": "Target\\Form1.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAowBoAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T15:45:12.439Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Form1.cs [Projeto]",
-              "DocumentMoniker": "C:\\0.Projetos\\Target\\Target\\Target\\Form1.cs",
-              "RelativeDocumentMoniker": "Target\\Form1.cs",
-              "ToolTip": "C:\\0.Projetos\\Target\\Target\\Target\\Form1.cs [Projeto]",
-              "RelativeToolTip": "Target\\Form1.cs [Projeto]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T15:44:58.833Z",
-              "EditorCaption": " [Projeto]"
             }
           ]
         }

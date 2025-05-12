@@ -16,7 +16,13 @@ class Exercicio5
 
     public string Inverte()
     {
-        string invertida = new string(texto.Reverse().ToArray());
+        string invertida = string.Empty;
+
+        for(int i = texto.Length -1; i>= 0; i--)
+        {
+            invertida += texto[i];
+        }
+
         return invertida;
     }
 }

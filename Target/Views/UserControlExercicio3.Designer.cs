@@ -94,9 +94,9 @@
             label3.AutoSize = true;
             label3.Location = new Point(62, 194);
             label3.Name = "label3";
-            label3.Size = new Size(135, 15);
+            label3.Size = new Size(116, 15);
             label3.TabIndex = 4;
-            label3.Text = "Menore(s) Faturamento:";
+            label3.Text = "Menor Faturamento:";
             // 
             // dataGridViewMenor
             // 
@@ -113,9 +113,9 @@
             label4.AutoSize = true;
             label4.Location = new Point(318, 194);
             label4.Name = "label4";
-            label4.Size = new Size(136, 15);
+            label4.Size = new Size(112, 15);
             label4.TabIndex = 6;
-            label4.Text = "Maiore(s) Faturamentos:";
+            label4.Text = "Maior Faturamento:";
             // 
             // dataGridViewMaior
             // 

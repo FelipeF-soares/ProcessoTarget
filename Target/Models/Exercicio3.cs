@@ -17,8 +17,8 @@ class Exercicio3
     public List<Faturamento> MenorFaturamento()
     {
         List<Faturamento> menor = new List<Faturamento>();
-        decimal menorValor = dados.Min(valor => valor.Valor);
-        menor = dados.Where(faturamento => faturamento.Valor == menorValor).ToList();
+        decimal menorValorMaiorQueZero = dados.Where(valor => valor.Valor > 0m).Min(valor => valor.Valor);
+        menor = dados.Where(faturamento => faturamento.Valor == menorValorMaiorQueZero).ToList();
       
         return menor;
     }
@@ -33,8 +33,8 @@ class Exercicio3
     public List<Faturamento> MediaSuperioFaturamento()
     {
         List<Faturamento> acimaDaMedia = new List<Faturamento>();
-        decimal media = dados.Average(valor => valor.Valor);
-        acimaDaMedia = dados.Where(faturamento => faturamento.Valor > media).ToList();
+        decimal mediaMaiorQueZero = dados.Where(v => v.Valor > 0m).Average(v => v.Valor);
+        acimaDaMedia = dados.Where(faturamento => faturamento.Valor > mediaMaiorQueZero).ToList();
         return acimaDaMedia;
     }
 }

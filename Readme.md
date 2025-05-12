@@ -22,7 +22,7 @@ Imprimir(SOMA);
 
 **Pergunta:** Qual será o valor final da variável `SOMA` após a execução?
 
-📌 **Solução:** [Clique aqui]()
+📌 **Solução:** [Clique aqui](https://github.com/FelipeF-soares/ProcessoTarget/blob/main/Target/Models/Exercicio1.cs)
 
 ---
 
@@ -30,7 +30,7 @@ Imprimir(SOMA);
 
 **Objetivo:** Desenvolver um programa que recebe um número e verifica se ele pertence à sequência de Fibonacci.
 
-📌 **Solução:** [Clique aqui]()
+📌 **Solução:** [Clique aqui](https://github.com/FelipeF-soares/ProcessoTarget/blob/main/Target/Models/Exercicio2.cs)
 
 ---
 
@@ -41,7 +41,7 @@ Imprimir(SOMA);
 - Encontre o **menor** e o **maior** faturamento diário no mês.
 - Determine quantos dias tiveram faturamento **acima da média mensal**.
 
-📌 **Solução:** [Clique aqui]()
+📌 **Solução:** [Clique aqui](https://github.com/FelipeF-soares/ProcessoTarget/blob/main/Target/Models/Exercicio3.cs)
 
 ---
 
@@ -55,7 +55,7 @@ Imprimir(SOMA);
 - **ES** – R$27.165,48
 - **Outros** – R$19.849,53
 
-📌 **Solução:** [Clique aqui]()
+📌 **Solução:** [Clique aqui](https://github.com/FelipeF-soares/ProcessoTarget/blob/main/Target/Models/Exercicio4.cs)
 
 ---
 
@@ -63,7 +63,7 @@ Imprimir(SOMA);
 
 **Objetivo:** Criar um programa que inverta os caracteres de uma string **sem utilizar funções prontas como `reverse`**.
 
-📌 **Solução:** [Clique aqui]()
+📌 **Solução:** [Clique aqui](https://github.com/FelipeF-soares/ProcessoTarget/blob/main/Target/Models/Exercicio5.cs)
 
 ---
 
