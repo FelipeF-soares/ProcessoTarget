@@ -79,7 +79,7 @@ Imprimir(SOMA);
 
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/FelipeF-soares/TargetSistemasJr.git
+   git clone https://github.com/FelipeF-soares/ProcessoTarget.git
    ```
 2. Acesse a pasta do projeto:
    ```sh
@@ -91,7 +91,7 @@ Imprimir(SOMA);
 
 ## 🔗 Link para o Repositório no GitHub
 
-📌 **[Acesse o repositório aqui]()**
+📌 **[Acesse o repositório aqui](https://github.com/FelipeF-soares/ProcessoTarget/tree/main)**
 
 📢 Caso tenha dúvidas ou sugestões, sinta-se à vontade para entrar em contato!
 
